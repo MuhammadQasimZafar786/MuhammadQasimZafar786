@@ -14,11 +14,10 @@ IoT & Intelligent Edge Systems
 - 🌱I’m currently learning Data Science and Artificial Intelligence.
  I'm actively learning and expanding my skills in Data Science and AI through online courses, books, and hands-on projects. My current focus areas include:
 
-- Python programming for Data Science
-- Machine learning algorithms and modeling
-- Deep learning techniques and applications
-- Data visualization and communication
-
+- Edge AI & Edge Computing
+- Federated Learning & Distributed Machine Learning
+- Privacy-Preserving & Trustworthy AI
+- Resource-Aware Machine Learning & Load Balancing
 - 💞️I’m looking to collaborate with the world in Data Science and Artificial Intelligence.
  I'm eager to collaborate with like-minded individuals, researchers, and organizations to work on projects that can make a positive impact. Whether it's a research project, a startup idea, or a social cause, I'm excited to contribute my skills and expertise.
 
