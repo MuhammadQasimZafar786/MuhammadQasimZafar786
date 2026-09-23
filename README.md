@@ -3,7 +3,13 @@
 
 
 - 👀I’m interested in Data Science and Artificial Intelligence.
- I'm fascinated by the potential of Data Science and AI to transform industries, improve lives, and drive innovation. My interests lie in machine learning, natural language processing, computer vision, and data visualization.
+ I'm fascinated by the potential of Data Science and AI to transform industries, improve lives, and drive innovation.
+My research interests lie in 
+Edge AI & Edge Computing
+Federated Learning & Distributed Machine Learning
+Privacy-Preserving & Trustworthy AI
+Resource-Aware Machine Learning & Load Balancing
+IoT & Intelligent Edge Systems
 
 - 🌱I’m currently learning Data Science and Artificial Intelligence.
  I'm actively learning and expanding my skills in Data Science and AI through online courses, books, and hands-on projects. My current focus areas include:
